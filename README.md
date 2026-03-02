@@ -30,26 +30,28 @@ and real-world documentation to help developers build practical projects.
 
 ## 💼 Experience
 
-### Web Developer
-- Built full-stack applications using MERN stack  
-- Developed REST APIs and integrated frontend with backend  
+### Full-Stack Developer  
+**Crystal Atelier (Client Project)**  
+Developed a luxury business website using React, Next.js, and Tailwind CSS. Built responsive UI components, implemented theme customization, and optimized performance across devices and browsers.
+[Crystal Atelier Website](https://crystal-studio.vercel.app/)  
 
-### AI Developer (Projects & Training)
-- Created machine learning models using Python  
-- Worked with TensorFlow and PyTorch  
+### Founder & Lead Developer  
+**DevSpace (Ongoing Project)**  
+Building a documentation and component library platform using modern React architecture. Developing reusable UI components, API integrations, authentication systems, and backend support with Node.js and MongoDB.
+[DevSpace Public API Platform](https://devspace-main-zyrn.vercel.app/)         
+
+### Graphic Designer  
+**Freelance / Independent Work**  
+Designed brand identities, marketing materials, and digital assets with a focus on visual consistency and user engagement across web and social platforms.
 
 ---
 
 ## 📂 Projects
 
-###  Api Keys Platform  
-Full-stack web application using React and Express.
-
-### 🎨 Designer Portfolio Work  
-Designed modern UI/UX layouts for web platforms and dashboards.
-
-### 🔌 DevSpace Public API Platform (Founder & Developer)  
-Built reusable APIs and real-world documentation for developers.
+[Portfolio](https://ahmad-mustafa.vercel.app/)  
+[DevSpace Public API Platform](https://devspace-main-zyrn.vercel.app/)         
+[eCommerce](https://fresh-cart-topaz-psi.vercel.app/)  
+[Crystal Atelier Website](https://crystal-studio.vercel.app/)  
 
 ---
 
@@ -65,4 +67,4 @@ Built reusable APIs and real-world documentation for developers.
 
 - Email: sirahmadansari007@gmail.com 
 - GitHub: https://github.com/sirahmadmustafa
-- LinkedIn: www.linkedin.com/in/sir-ahmad-mustafa-ansari
+- LinkedIn: https://pk.linkedin.com/in/sir-ahmad-mustafa-ansari
